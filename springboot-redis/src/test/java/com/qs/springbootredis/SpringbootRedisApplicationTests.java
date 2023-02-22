@@ -1,10 +1,10 @@
-package com.qs.springboot;
+package com.qs.springbootredis;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootApplicationTests {
+class SpringbootRedisApplicationTests {
 
     @Test
     void contextLoads() {

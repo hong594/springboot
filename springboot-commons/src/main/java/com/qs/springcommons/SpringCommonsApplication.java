@@ -1,13 +1,13 @@
-package com.qs.springboot;
+package com.qs.springcommons;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootApplication {
+public class SpringCommonsApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringbootApplication.class, args);
+        SpringApplication.run(SpringCommonsApplication.class, args);
     }
 
 }
