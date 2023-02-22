@@ -18,6 +18,8 @@
     <modules>
         <module>springboot-redis</module>
         <module>springboot-commons</module>
+        <module>springboot-exception</module>
+        <module>springboot-mybatisplus</module>
     </modules>
 
     <properties>
